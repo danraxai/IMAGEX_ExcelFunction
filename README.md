@@ -11,7 +11,7 @@ Este complemento de Excel permite insertar imágenes en una celda específica a 
 
 ## Descargar el Complemento
 Puedes descargar el complemento IMAGEX.xlam desde el siguiente enlace:
-[Descargar IMAGENX.xlam](https://github.com/danraxai/IMAGENX_ExcelFunction/blob/main/IMAGENX.xlam)
+[Descargar IMAGENX.xlam]([https://github.com/danraxai/IMAGENX_ExcelFunction/blob/main/IMAGENX.xlam](https://github.com/danraxai/IMAGEX_ExcelFunction/blob/main/IMAGEX.xlam))
 
 ## Instalación
 1. Descargar el Archivo:
