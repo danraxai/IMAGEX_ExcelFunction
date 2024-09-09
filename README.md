@@ -4,6 +4,9 @@ Complemento de Excel para insertar imágenes en celdas a partir de una URL.
 ## Descripción
 Este complemento de Excel permite insertar imágenes en una celda específica a partir de una URL, ajustando el tamaño de la imagen para que se adapte a la celda.
 
+## Idiomas de Función
+IMAGEX (Inglés) / IMAGENX (Español).
+
 ## Características Principales
 - **Inserción de Imágenes desde URL**: Puedes insertar imágenes directamente desde una URL o desde una celda que contenga la URL.
 - **Ajuste Automático**: Las imágenes se ajustan automáticamente al tamaño de la celda de destino, manteniendo la relación de aspecto.
